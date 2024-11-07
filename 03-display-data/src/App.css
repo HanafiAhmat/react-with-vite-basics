@@ -1,0 +1,12 @@
+
+/* plan your CSS here */
+
+.avatar {
+  border-radius: 50%;
+  border-color: blue;
+  border-style: solid;
+}
+
+h1{
+  color: blue;
+}
